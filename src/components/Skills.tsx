@@ -1,9 +1,8 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 
 const skills = [
-  { name: 'Python', percent: 85 },
-  { name: 'Java', percent: 80 },
+  { name: 'Java', percent: 85 },
+  { name: 'Python', percent: 60 },
   { name: 'Tableau', percent: 75 },
   { name: 'HTML/CSS', percent: 90 },
 ];
